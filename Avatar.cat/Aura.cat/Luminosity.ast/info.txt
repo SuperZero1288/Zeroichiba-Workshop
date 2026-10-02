@@ -1,0 +1,13 @@
+# Luminosity
+Sol's RNGのオーラ**Luminosity**をVRChat向けに再現し、簡単にアバターに導入できるようにしたものです。
+プレハブをアバター直下に入れることで導入完了です。
+---
+Modular Avatar:y
+VRCFury:n
+liltoon:y
+Poiyomi:n
+include .blend format:y
+---
+[Modular Avatar](https://modular-avatar.nadena.dev/ja)
+[liltoon](https://lilxyzw.github.io/lilToon/)
+[Sol's RNG Wiki Luminosity](https://sol-rng.fandom.com/wiki/Luminosity)
